@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBotSample", "TaskBotSample\TaskBotSample.csproj", "{F87170ED-ADE0-4158-AC44-E1A8FC78994D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87170ED-ADE0-4158-AC44-E1A8FC78994D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87170ED-ADE0-4158-AC44-E1A8FC78994D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87170ED-ADE0-4158-AC44-E1A8FC78994D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87170ED-ADE0-4158-AC44-E1A8FC78994D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94625FF5-6817-4B25-B966-000FDC091D03}
+	EndGlobalSection
+EndGlobal
