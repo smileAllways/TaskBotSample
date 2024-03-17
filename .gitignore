@@ -2,3 +2,4 @@ TaskBotSample/bin/
 TaskBotSample/obj/
 packages/
 .vs/
+*cache
